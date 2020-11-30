@@ -1,5 +1,5 @@
 # One-Setting-Server
-@[toc](Contens)
+
 ## Introduction
 OSS is an auto-setting scripts for linux servers by one command. 
 
@@ -17,3 +17,4 @@ You can use the hsell script to configure the basic environment easily and you d
 ## Illustration of Environment
 
 ### Deep learning
+
